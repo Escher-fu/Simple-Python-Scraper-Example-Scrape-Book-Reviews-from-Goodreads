@@ -14,6 +14,5 @@ including features of:
 * review: user review content;
 * like: the likes of this review;
 
-see blog tutorial as 
-
+See detail tutorial from [blog](https://medium.com/@escherfu/simple-python-scraper-example-scrape-book-reviews-from-goodreads-25cb5bdcd1f1)
 
